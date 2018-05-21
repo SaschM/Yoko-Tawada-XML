@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT collection (book,text)>
+<!-- to be used if the separate xml files were compiled into one file -->
+<!-- collection in the root element -->
+<!ELEMENT book (bookTitle+,datePublished+,publisher+,writers+)>
+<!ELEMENT bookTitle (#PCDATA)>
+<!ATTLIST bookTitle bookLanguage CDATA #REQUIRED>
+<!ELEMENT datePublished (#PCDATA)>
+<!ELEMENT publisher (#PCDATA)>
+<!ATTLIST publisher country CDATA #REQUIRED>
+<!ELEMENT writers (author,translator*)>
+<!ELEMENT author (#PCDATA)>
+<!ATTLIST author language CDATA #REQUIRED>
+<!ELEMENT translator (#PCDATA)>
+<!ATTLIST translator languageFrom CDATA #REQUIRED>
+<!ATTLIST translator languageTo CDATA #REQUIRED>
+<!ELEMENT text (textTitle,originalTitle*,textEquivalent*,pages,character+,theme+,body)>
+<!ATTLIST text textLanguage CDATA #REQUIRED>
+<!ELEMENT textTitle (#PCDATA)>
+<!ELEMENT originalTitle (#PCDATA)>
+<!ATTLIST originalTitle language CDATA #REQUIRED>
+<!ATTLIST originalTitle fromBook CDATA #REQUIRED>
+<!ELEMENT textEquivalent (#PCDATA)>
+<!ATTLIST textEquivalent equivWriter CDATA #REQUIRED>
+<!ATTLIST textEquivalent equivLanguage CDATA #REQUIRED>
+<!ATTLIST textEquivalent fromBook CDATA #REQUIRED>
+<!ELEMENT pages (#PCDATA)>
+<!ELEMENT character (#PCDATA)>
+<!ATTLIST character characterType CDATA #REQUIRED>
+<!ATTLIST character characterEquiv CDATA #IMPLIED >
+<!ELEMENT theme (#PCDATA) >
+<!ELEMENT body (page+)>
+<!ELEMENT page (chapter*,p+) >
+<!ATTLIST page pageNo CDATA #REQUIRED>
+<!ELEMENT chapter EMPTY>
+<!ATTLIST chapter chapterNo CDATA #REQUIRED>
+<!ATTLIST chapter chapterTitle CDATA #IMPLIED>
+<!ELEMENT p (line+)>
+<!ATTLIST p pNo CDATA #REQUIRED>
+<!ELEMENT line (#PCDATA|firstletter|name|speech|italics|animal)*>
+<!ELEMENT firstletter (#PCDATA)>
+<!ATTLIST line lineNo CDATA #REQUIRED>
+<!ELEMENT name (#PCDATA|animal)* >
+<!ELEMENT speech (#PCDATA|italics|animal)* >
+<!ATTLIST speech speaker CDATA #REQUIRED >
+<!ATTLIST speech type CDATA #REQUIRED >
+<!ELEMENT italics (#PCDATA) >
+<!ELEMENT animal (#PCDATA)>
+<!ATTLIST animal animalType CDATA #REQUIRED>
+<!ENTITY semi-colon "&#59;">
+<!ENTITY colon "&#58;">
+<!ENTITY umlaut-u-lowercase "&#252;" >
+<!ENTITY umlaut-u-uppercase "&#220;" >
+<!ENTITY umlaut-a-lowercase "&#228;" >
+<!ENTITY eszett "&#223;" >
+<!ENTITY umlaut-o-lowercase "&#246;" >
+<!ENTITY umlaut-o-capital "&#214;" >
+<!ENTITY acute-e-lowercase "&#233;" >
+

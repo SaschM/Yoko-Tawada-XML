@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "file:/Users/saschamorgan-evans/Desktop/Digital%20Humanities%20MA:MSc/AssessmentXML.dtd">
+<!--- Canned Foreign- English --->
+<collection>
+    <book>
+        <bookTitle bookLanguage="English">Where Europe Begins</bookTitle>
+        <datePublished>2007</datePublished>
+        <publisher country="United States">New Directions</publisher>
+        <writers>
+            <author language="German and Japanese">Yoko Tawada</author>
+            <translator languageFrom="German" languageTo="English">Susan Bernofsky</translator>
+        </writers>
+    </book>
+    <text textLanguage="English">
+        <textTitle>Canned Foreign</textTitle>
+        <originalTitle language="German" fromBook="Talisman">Das Fremde aus der Dose</originalTitle>
+        <pages>85-91</pages>
+        <character characterType="narrator">Narrator</character>
+        <character characterType="secondary" characterEquiv="Sascha">Sasha</character>
+        <character characterType="secondary" characterEquiv="Sonja">Sonia</character>
+        <theme>Foreigness</theme>
+        <theme>Orientalism</theme>
+        <theme>The Gaze</theme>
+        <theme>Otherness</theme>
+        <theme>Semiotics</theme>
+        <body>
+            <page pageNo="85">
+                <p pNo="1">
+                    <line lineNo="1"><firstletter>I</firstletter>n any city one finds a surprisingly large number of peo</line>
+                    <line lineNo="2">ple who cannot read. Some of them are still too young,</line>
+                    <line lineNo="3">others simply refused to learn the letters of the alphabet.</line>
+                    <line lineNo="4">There are also a good many tourists and workers from</line>
+                    <line lineNo="5">other countries who live with a different set of characters</line>
+                    <line lineNo="6">altogether. In their eyes, the image of the city seems enig</line>
+                    <line lineNo="7">matic, veiled</line>
+                </p>
+                <p pNo="2">
+                    <line lineNo="8">I already knew the alphabet when I arrived in Hamburg,</line>
+                    <line lineNo="9">but I could gaze at the individual letters for a long time</line>
+                    <line lineNo="10">without recognizing the meaning of the words. For exam</line>
+                    <line lineNo="11">ple, every day I looked at the same posters beside the bus</line>
+                    <line lineNo="12">stop but never read the names of the products. I know only</line>
+                    <line lineNo="13">that on one of the most beautiful of these posters the let</line>
+                    <line lineNo="14">ter S appeared seven times. I don&apos;t think this letter remind-</line>
+                    <line lineNo="15">ed me of the shape of a <animal animalType="snake/serpent/reptile">snake</animal>. Not only the S, but all the</line>
+                </p>
+            </page>
+            <page pageNo="86">
+                <p pNo="2">
+                    <line lineNo="16">other letters as well differed from live snakes in that they</line>
+                    <line lineNo="17">lacked both moisture and flesh. I repeated the S sounds in</line>
+                    <line lineNo="18">my mouth and noticed that my tongue suddenly tasted odd.</line>
+                    <line lineNo="19">I hadn&apos;t known a tongue, too, could taste of something.</line>
+                </p>
+                <p pNo="3">
+                    <line lineNo="20">The woman I met at this bus stop had a name that began</line>
+                    <line lineNo="21">with S: <name>Sasha</name>. I knew at once she couldn&apos;t read. Whenever.</line>
+                    <line lineNo="22">she saw me she gazed at me intently and with interest, but</line>
+                    <line lineNo="23">she never attempted to read anthing in my face. In those</line>
+                    <line lineNo="24">days I often found that people became uneasy when they</line>
+                    <line lineNo="25">couldn&apos;t read my face like a text.</line>
+                </p>
+                <p pNo="4">
+                    <line lineNo="26">It&apos;s curious the way the expression of a foreigner&apos;s face is</line>
+                    <line lineNo="27">often compared to a mask. Does this comparison conceal a</line>
+                    <line lineNo="28">wish to discover a familiar face behind the strange one?</line>
+                </p>
+                <p pNo="5">
+                    <line lineNo="29"><name>Sasha</name> complacently accepted all forms of illegibility. She</line>
+                    <line lineNo="30">didn&apos;t want to &quot;read&quot; things, she wanted to observe them,</line>
+                    <line lineNo="31">in detail. She must have been in her mid-fifties. I don&apos;t</line>
+                    <line lineNo="32">remember what color her hair was. I didn&apos;s learn to register</line>
+                    <line lineNo="33">hair-colors as a child, and so I still can&apos;t do this. <name>Sasha</name> often</line>
+                    <line lineNo="34">waited at the bus stop to meet her girlfriend. For <name>Sonia</name></line>
+                    <line lineNo="35">that&apos;s what she called her friend-was unable to get out of</line>
+                    <line lineNo="36">the bus on her own. Her arms and legs were incapable of</line>
+                    <line lineNo="37">working in unison toward a single goal, they couldn&apos;t all fol</line>
+                    <line lineNo="38">low the same directions at once.</line>
+                </p>
+                <p pNo="6">
+                    <line lineNo="39"><name>Sasha</name> pressed <name>Sonia</name>&apos;s arms and legs together and called</line>
+                    <line lineNo="40">her name a few times, as though the name could bring </line>
+                    <line lineNo="41">harmony to her limbs.</line>
+                </p>  
+            </page>
+            <page pageNo="87">
+                <p pNo="7">
+                    <line lineNo="42"><name>Sasha</name> and <name>Sonia</name> shared an apartment. Three times a</line>
+                    <line lineNo="43">week someone came to attend to whatever written business</line>
+                    <line lineNo="44">there was. Apart from reading and writing, the two of them</line>
+                    <line lineNo="45">were able to manage everything they needed to live their</line>
+                    <line lineNo="46">lives.</line>
+                </p>
+                <p pNo="8">
+                    <line lineNo="47">A few times they had me over for coffee. There were</line>
+                    <line lineNo="48">questions <name>Sasha</name> and <name>Sonia</name> never asked though, I encountered</line>
+                    <line lineNo="49">these questions everywhere I went&#58; mostly they began,</line>
+                    <line lineNo="50"><speech speaker="people/they/unnamed" type="direct">&quot;Is it true that the Japanese...&quot;</speech> That is, most people wanted</line>
+                    <line lineNo="51">to now whether or not something they&apos;d read in a newspaper</line>
+                    <line lineNo="52">or magazine was true. I was also often asked </line>
+                    <line lineNo="53">questions beginning. <speech speaker="people/they/unnamed" type="direct">&quot;In Japan do people also...&quot;</speech> I was never</line>
+                    <line lineNo="54">able to answer them. Every attempt I made to describe the</line>
+                    <line lineNo="55">difference between two cultures failed&#58; this difference was</line>
+                    <line lineNo="56">painted on my skin like a foreign script which I could feel</line>
+                    <line lineNo="57">but not read. Every foreign sound, every foreign glance,</line>
+                    <line lineNo="58">every foreign taste struck my body as disagreeable until</line>
+                    <line lineNo="59">my body changed. The &#214; sounds, for example, stabbed too</line>
+                    <line lineNo="60">deeply into my ears and the R sounds scratched my throat.</line>
+                    <line lineNo="61">Certain expressions even gave me goose flesh, for instance</line>
+                    <line lineNo="62">&quot;to get on his nerves,&quot; &quot;fed up to here&quot; or &quot;all washed up.&quot;</line>
+                </p>
+                <p pNo="9">
+                    <line lineNo="63">Most of the words that came out of my mouth had</line>
+                    <line lineNo="64">nothing to do with how I felt. But at the same time I real</line>
+                    <line lineNo="65">ized that my native tongue didn&apos;t have words for how I felt</line>
+                    <line lineNo="66">either. It&apos;s just that this never occurred to me until I&apos;d begun</line>
+                    <line lineNo="67">to live in a foreign language.</line>
+                </p>
+                <p pNo="10">
+                    <line lineNo="68">Often it sickened me to hear people speak their native</line>
+                    <line lineNo="69">tongues fluently. It was as if they were unable to think and</line>
+                    <line lineNo="70">feel anything but what their language so readily served up</line>
+                    <line lineNo="71">to them.</line>
+                </p>
+            </page>
+            <page pageNo="88">
+                <p pNo="11">
+                    <line lineNo="72">From our bus stop one could see not only the various</line>
+                    <line lineNo="73">bllboards but also the signs for a few restaurants. One of</line>
+                    <line lineNo="74">them belonged to a Chinese restaurant called <name>&quot;The Golden <animal animalType="dragon/mythical">Dragon.</animal>&quot;</name></line>
+                    <line lineNo="75">Two Chinese characters shone gold and green. The</line>
+                    <line lineNo="76">first character meant &quot;gold,&quot; and the second &quot;<animal animalType="dragon/mythical">dragon</animal>,&quot; I</line>
+                    <line lineNo="77">explained once to <name>Sasha</name> as I saw her staring at this sign.</line>
+                    <line lineNo="78"><name>Sasha</name> then pointed out that <speech speaker="Sasha" type="indirect">the second character was even</speech></line>
+                    <line lineNo="79"><speech speaker="Sasha" type="indirect">shaped something like a &quot;real&quot; <animal animalType="dragon/mythical">dragon.</animal></speech> and in fact it <italics>is</italics> pos</line>
+                    <line lineNo="80">sible to see the image of a <animal animalType="dragon/mythical">dragon</animal> in this character&#58; the lit</line>
+                    <line lineNo="81">tle box in the upper right-hand corner might be a <animal animalType="dragon/mythical">dragon&apos;s</animal></line>
+                    <line lineNo="82">head, and the lines on the right side remind me of a <animal animalType="dragon/mythical">dragon&apos;s</animal></line>
+                    <line lineNo="83"> back. But <name>Sasha</name> knew it wasn&apos;t a &quot;picture&quot; of the <animal animalType="dragon/mythical"></animal>dragon</line>
+                    <line lineNo="84">- she asked me whether <speech speaker="Sasha" type="indirect">I, too, could <italics>write</italics>it.</speech></line>
+                </p>
+                <p pNo="12">
+                    <line lineNo="85">A few weeks later <name>Sasha</name> showed me a teacup and said</line>
+                    <line lineNo="86">that <speech speaker="Sasha" type="indirect">she&apos;d discovered the &quot;<animal animalType="dragon/mythical">dragon</animal>&quot; symbol on it.</speech> Indeed, the</line>
+                    <line lineNo="87">the cup did bear the sign. <name>Sasha</name> had seen it in a shop and</line>
+                    <line lineNo="88">immediately bought it. For the first time in her life, she</line>
+                    <line lineNo="89">could read. Then I wanted to teach her some more charac</line>
+                    <line lineNo="90">ters. She&apos;ll always be illiterate, since she can&apos;t read the letters</line>
+                    <line lineNo="91">of the alphabet, but now she can read one character and</line>
+                    <line lineNo="92">knows that the alphabet isn&apos;t the only system of writing in</line>
+                    <line lineNo="93">the world.</line>
+                </p>
+            </page>
+            <page pageNo="89">
+                <p pNo="13">
+                    <line lineNo="94">Next to the bus stop was a small shop in which <name>Sasha</name></line>
+                    <line lineNo="95">sometimes bought <name>Sonia</name> a bar of soap. <name>Sonia</name> loves soap, or,</line>
+                    <line lineNo="96">rather, she loves the packaging it comes in. The packaging</line>
+                    <line lineNo="97">was very misleading&#58; the paper on the outside was painted with</line>
+                    <line lineNo="98"><animal animalType="butterfly/insect">butterflies</animal>, <animal animalType="bird/avian">birds</animal> or flowers even though all it contained was</line>
+                    <line lineNo="99">soap. Very few products have pictures on the package that</line>
+                    <line lineNo="100">aren&apos;t immediately connected in some way to their contents.</line>
+                    <line lineNo="101"><name>Sonia</name> always unwrapped the soap right away when <name>Sasha</name></line>
+                    <line lineNo="102">gave her some, then wrapped it up again.</line>
+                </p>
+                <p pNo="14">
+                    <line lineNo="103">Once the box the soap came in bore a <animal animalType="phoenix/bird/avian/mythical">phoenix</animal> on which</line>
+                    <line lineNo="104">the word &quot;soap&quot; was written in fine print that <name>Sonia</name> of</line>
+                    <line lineNo="105">course couldn&apos;t read. <name>Sonia</name> understood only the picture of</line>
+                    <line lineNo="106">the <animal animalType="phoenix/bird/avian/mythical">phoenix</animal> and the contents&#58; soap.</line>
+                </p>
+                <p pNo="15">
+                    <line lineNo="107">Only because there is such a thing as written language, I</line>
+                    <line lineNo="108">thought to myself, could they paint a <animal animalType="phoenix/bird/avian/mythical">phoenix</animal> on the box</line>
+                    <line lineNo="109">instead of a piece of soap. What else could fix the meaning</line>
+                    <line lineNo="110">of its contents, the soap, if the letters weren&apos;t there? Then</line>
+                    <line lineNo="111">there would be the danger the soap might, in the course</line>
+                    <line lineNo="112">of time, turn into a <animal animalType="phoenix/bird/avian/mythical">phoenix</animal> and fly away.</line>
+                </p>
+                <p pNo="16">
+                    <line lineNo="113">Once, in the supermarket, I bought a little can that had</line>
+                    <line lineNo="114">a Japanese woman painted on the side. Later, at home, I</line>
+                    <line lineNo="115">opened the can and saw inside it a piece of <animal animalType="tuna/fish">tuna fish</animal>. The</line>
+                    <line lineNo="116">woman seemed to have changed into a piece of <animal animalType="tuna/fish">fish</animal> during</line>
+                    <line lineNo="117">her long voyage. This surprise came on a Sunday&#58; I had</line>
+                    <line lineNo="118">decided to not read any writing on Sundays. Instead I</line>
+                    <line lineNo="119">observed the people I saw on the street as though they were</line>
+                    <line lineNo="120">isolated ltters. Sometimes two people sat down next to</line>
+                    <line lineNo="121">each other in a caf&#233;, and thus, briefly, formed a word. Then</line>
+                    <line lineNo="122">they separated, in order to go off and form other words.</line>
+                    <line lineNo="123">There must have been a moment in which the combinations</line>
+                </p>
+            </page>
+            <page pageNo="90">
+                <p pNo="16">
+                    <line lineNo="124">of these words formed, quite by chance, several sentences in </line>
+                    <line lineNo="125">which I might have rea this foreign city like a text. But I</line>
+                    <line lineNo="126">never discovered  single sentence in this city, only letters</line>
+                    <line lineNo="127">and sometimes a few words that had no direct connection</line>
+                    <line lineNo="128">to any &quot;cultural content&quot;. These words then led me</line>
+                    <line lineNo="129">to open the wrapping paper on the outside, only to find</line>
+                    <line lineNo="130">different wrapping paper below.</line>
+                </p>
+            </page>
+        </body>
+    </text>
+</collection>

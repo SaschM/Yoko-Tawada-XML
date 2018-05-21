@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "file:/Users/saschamorgan-evans/Desktop/Digital%20Humanities%20MA:MSc/AssessmentXML.dtd">
+<!-- Das Fremde Aus Der Dose German -->
+<collection>
+    <book>
+        <bookTitle bookLanguage="German">Talisman</bookTitle>
+        <datePublished>2015</datePublished>
+        <publisher country="Germany">Impressum</publisher>
+        <writers>
+            <author language="German and Japanese">Yoko Tawada</author>
+        </writers>
+    </book>
+    <text textLanguage="German">
+        <textTitle>Das Fremde aus der Dose</textTitle>
+        <textEquivalent equivWriter="Yoko Tawada and Susan Bernofsky" equivLanguage="English" fromBook="Where Europe Begins">Canned Foreign</textEquivalent>
+        <pages>40-46</pages>
+        <character characterType="narrator">Narrator</character>
+        <character characterType="secondary" characterEquiv="Sasha">Sascha</character>
+        <character characterType="secondary" characterEquiv="Sonia">Sonja</character>
+        <theme>Foreigness</theme>
+        <theme>Orientalism</theme>
+        <theme>The Gaze</theme>
+        <theme>Otherness</theme>
+        <theme>Semiotics</theme>
+        <body>
+            <page pageNo="40">
+                <p pNo="1">
+                    <line lineNo="1"><firstletter>E</firstletter>s gibt in jeder Stadt eine erstaunlich gro&#223;e</line>
+                    <line lineNo="2">Anzahl von Menschen die nicht lesen k&#246;nnen.</line>
+                    <line lineNo="3">Einige von ihnen sind noch zu jung daf&#252;r, andere</line>
+                    <line lineNo="4">lehnen es ab, die Schriftzeichen zu lernen. Es gibt</line>
+                    <line lineNo="5">auch viele Touristen und Arbeiter aus andere L&#228;n-</line>
+                    <line lineNo="6">dern, die mit anderen Schriftzeichen leben. In ihren</line>
+                    <line lineNo="7">Augen erscheint das Bild der Stadt wie verr&#228;tselt</line>
+                    <line lineNo="8">oder verschleiert.</line>
+                </p>
+                <p pNo="2">
+                    <line lineNo="9">Als ich nach Hamburg kan, kanntie ich zwar</line>
+                    <line lineNo="10">schon alle Buchstaben des Alphabets, aber ich</line>
+                    <line lineNo="11">konnte die einzelnen Buchstaben lange angucken,</line>
+                    <line lineNo="12">ohne die Bedeutung der W&#246;rter zu erkennen. Ich</line>
+                    <line lineNo="13">blickte zum Beispiel jeden Tag auf die Plakater vor</line>
+                    <line lineNo="14">der Bushaltestelle und las niemals die name der</line>
+                    <line lineNo="15">Produkte. Ich we&#223; nur, dass auf einem der sch&#246;ns-</line>
+                    <line lineNo="16">ten Plakate von ihnen siebenmal der Buchstabe &gt;&gt;S&lt;&lt;</line>
+                    <line lineNo="17">auftauchte. Ich glaube nicht, dass dieser Buchstabe</line>
+                    <line lineNo="18">mich an die Gestalt einer <animal animalType="snake/serpent/reptile">Schlange</animal> erinnerte. Nicht</line>
+                    <line lineNo="19">nur das &gt;&gt;S&lt;&lt;, sondern auch die anderen Buchstaben</line>
+                    <line lineNo="20">des Alphabets hatten im Unterschied zu einer leben-</line>
+                    <line lineNo="21">den <animal animalType="snake/serpent/reptile">Schlange</animal> weder Fleisch noch Feuchtigkeit. Ich</line>
+                    <line lineNo="22">wiederholte die S-Laute im Mund und merkte dabei,</line>
+                    <line lineNo="23">dass meine Zunge pl&#246;tzlich fremd schmeckte. Ich</line>
+                </p>
+            </page>
+            <page pageNo="41">
+                <p pNo="2">
+                    <line lineNo="24">wusste bis dahin nicht, dass die Zunge auch nach</line>
+                    <line lineNo="25">etwas schmecken konnte.</line>
+                </p>
+                <p pNo="3">
+                    <line lineNo="26">Die Frau, die ich damals an dieser Haltestelle</line>
+                    <line lineNo="27">kennenlernte, hatte einen Name, der mit S anfing&#58;</line>
+                    <line lineNo="28"><name>Sascha</name>. Ich wusste sofort, dass sie nicht lesen konn-</line>
+                    <line lineNo="29">te. Sie blickte mich jedes Mal an, wenn sie mich</line>
+                    <line lineNo="30">sah, intensiv und interessiert, aber sie versuchte</line>
+                    <line lineNo="31">dabei niemals, etwas aus meinem Gesicht heraus-</line>
+                    <line lineNo="32">zulesen. Damals erlebte ich oft, dass Menschen</line>
+                    <line lineNo="33">unruhig werden, wenn sie mein Gesicht nicht lesen</line>
+                    <line lineNo="34">k&#246;nnen wie einen Text.</line>
+                </p>
+                <p pNo="4">
+                    <line lineNo="35">Es ist merkw&#252;rdig, dass ein fremder Gesichts-</line>
+                    <line lineNo="36">ausdruck oft mit einer Maske verglichen wird. Liegt</line>
+                    <line lineNo="37">diesem Vergleich der Wunsch zugrune, hinter dem</line>
+                    <line lineNo="38">fremden Gesicht ein bekanntes zu entdecken?</line>
+                </p>
+                <p pNo="5">
+                    <line lineNo="39"><name>Sascha</name> konnte jede Art Unlesbarket mit Ruhe</line>
+                    <line lineNo="40">akzeptieren. Sie wollte nichts &gt;&gt;lesen&lt;&lt;, sondern alles</line>
+                    <line lineNo="41">genau beobachten. Sie war wahrscheinlich Mitte</line>
+                    <line lineNo="42">f&#252;nfzig. An die Farbe ihrer Haare kann ich mich nicht</line>
+                    <line lineNo="43">erinnern. Weil ich es als Kind nicht gelernt habe,</line>
+                    <line lineNo="44">kann ich mir nicht die Farbe der Haare merken.</line>
+                </p>
+                <p pNo="6">
+                    <line lineNo="45"><name>Sascha</name> stand oft an dieser Bushaltestelle, um</line>
+                    <line lineNo="46">ihre Freundin abzuholen. Denn <name>Sonja</name>, so nannte</line>
+                    <line lineNo="47">sie ihre Freundin, konnte nicht alleine aus dem Bus</line>
+                    <line lineNo="48">aussteigen. Ihre Arme und Beine konten nicht ge-</line>
+                    <line lineNo="49">meinsam ein Ziel erreichen, weil sie sich nicht</line>
+                    <line lineNo="50">eine Anweisung hielten.</line>
+                </p>
+                <p pNo="7">
+                    <line lineNo="51"><name>Sascha</name> dr&#252;ckte <name>Sonjas</name> Arme und Beine zusam-</line>
+                    <line lineNo="52">men und rief ein paar Mal ihren Namen, als k&#246;nnte</line>
+                    <line lineNo="53">der Name ihre Glieder zu einer Einheit bringen.</line>
+                </p>
+            </page>
+            <page pageNo="42">
+                <p pNo="8">
+                    <line lineNo="54"><name>Sascha</name> und <name>Sonja</name> wohnten zusammen in einer</line>
+                    <line lineNo="55">Wohnung. Drei Mal in der Woche kam ein Betreuer</line>
+                    <line lineNo="56">zu ihnen und erledigte alles, was schriftlich gemacht</line>
+                    <line lineNo="57">werden musste. Au&#223;er lesen und schreiben konnten</line>
+                    <line lineNo="58">sie alles, was sie im Leben brauchten.</line>
+                </p>
+                <p pNo="9">
+                    <line lineNo="59">Ich wurde auch ein paarmal bei ihnen zum Kaffee</line>
+                    <line lineNo="60">eingeladen. Es gab Fragen, die <name>Sascha</name> und <name>Sonja</name></line>
+                    <line lineNo="61">mir nie gestellt haben, obwohl ich sonst &#252;berall</line>
+                    <line lineNo="62">solchen Fragen begegnete: diese Fragen fangen</line>
+                    <line lineNo="63">an mit <speech speaker="people/they/unnamed" type="direct">&gt;&gt;Stimmt es, dass die Japaner...&lt;&lt;.</speech> Das hei&#223;t,</line>
+                    <line lineNo="64">die Meisten, Menschen wollten wissen, ob das, was</line>
+                    <line lineNo="65">sie in einer Zeitung oder Zeitschrift gelesen haben,</line>
+                    <line lineNo="66">wahre oder falsch ist. Fragen die mit <speech speaker="people/they/unnamed" type="direct">&gt;&gt;Ist es in Ja-</speech></line>
+                    <line lineNo="67"><speech speaker="people/they/unnamed" type="direct">pan auch so, dass...&lt;&lt;</speech> wurden mir auch</line>
+                    <line lineNo="68">oft gestellt. Ich konnte sie nicht beantworten. Jeder</line>
+                    <line lineNo="69">Versuch, den Unterschied zwischen zwei Kulturen zu</line>
+                    <line lineNo="70">beschreiben, misslang mir&#58; Der Unterschied wurde</line>
+                    <line lineNo="71">direkt auf meine Haut aufgetragen wie eine fremde</line>
+                    <line lineNo="72">Schrift, die ich zwar sp&#252;ren, aber nicht lesen konn-</line>
+                    <line lineNo="73">te. Jeder fremde Klang, jeder fremde Blick und</line>
+                    <line lineNo="74">jeder fremde Geschmack wirkten unangenehm auf</line>
+                    <line lineNo="75">den K&#246;rper, so lange, bis der K&#246;rper sich ver&#228;nder-</line>
+                    <line lineNo="76">te. Die O-Laute zum Beispiel dr&#228;ngten sich zu tief</line>
+                    <line lineNo="78">meine Ohren und die R-Laute kratzten in meinem</line>
+                    <line lineNo="79">Hals. Es hab auch Redewendungen, bei denen ich</line>
+                    <line lineNo="80">eine G&#228;nsehaut bekam, wie zum Beispiel &gt;&gt;auf die</line>
+                    <line lineNo="81">Nerven gehen&lt;&lt;, &gt;&gt;die Nase voll haben&lt;&lt;, oder &gt;&gt;in die</line>
+                    <line lineNo="82">Hosen gehen&lt;&lt;.</line>
+                </p>
+                <p pNo="10">
+                    <line lineNo="83">Die meisten W&#246;rter, die aus meinem Mund</line>
+                    <line lineNo="84">herauskamen, entsprachen nicht meinem Gef&#252;hl.</line>
+                </p>
+            </page>
+            <page pageNo="43">
+                <p pNo="10">
+                    <line lineNo="85">Dabei stelle ich fest, dass es auch in meiner Mut-</line>
+                    <line lineNo="86">tersprache kein Wort gab, das meinem Gef&#252;hl ent-</line>
+                    <line lineNo="87">sprach. Ich hatte das nur nicht so empfunden, bis</line>
+                    <line lineNo="88">ich in einer fremden Sprache zu leben anfing.</line>
+                </p>
+                <p pNo="11">
+                    <line lineNo="89">Ich ekelte mich oft vor den Menschen, die flie-</line>
+                    <line lineNo="90">&#223;end ihre Muttersprache sprachen. Sie machten</line>
+                    <line lineNo="91">den Eindruck, dass sie nichts anderes denken und</line>
+                    <line lineNo="92">sp&#252;ren konnten als das, was ihre Sprache ihnen so</line>
+                    <line lineNo="93">schnell und bereiwillig anbietet.</line>
+                </p>
+                <p pNo="12">
+                    <line lineNo="94">Von unserer Bushaltestelle aus konnte man nicht</line>
+                    <line lineNo="95">nur die verschiedenen Werbeplakate, sondern auch</line>
+                    <line lineNo="96">die Schilder ainiger Restaurants sehen. Eines von ih-</line>
+                    <line lineNo="97">nen geh&#246;rte zu einem chinesischen Restaurant, das</line>
+                    <line lineNo="98">&gt;&gt;Goldener <animal animalType="dragon">Drache</animal>&lt;&lt; hie&#223;. Zwei chinesiche Schrift-</line>
+                    <line lineNo="99">zeichen lecuteten golden und gr&#252;n. Das erste be-</line>
+                    <line lineNo="100">deutet &gt;&gt;Gold&lt;&lt; und das zweite bedeutet &gt;&gt;<animal animalType="dragon">Drache</animal>&lt;&lt;,</line>
+                    <line lineNo="101">erkl&#228;rte ich <name>Sascha</name>, als sie lange auf das Schild</line>
+                    <line lineNo="102">blickte. <name>Sascha</name> sagte mir dann, <speech speaker="Sascha" type="indirect">dass das zweite</speech></line>
+                    <line lineNo="103"><speech speaker="Sascha" type="indirect">Zeichen tats&#228;chlich eine &#228;hnliche Gestalt habe wie</speech></line>
+                    <line lineNo="104"><speech speaker="Sascha" type="indirect">ein &gt;&gt;richtiger&lt;&lt; <animal animalType="dragon">Drache</animal>.</speech>Es war ist zwar m&#246;glich, in die-</line>
+                    <line lineNo="105">sem Zeichen das Bild eines <animal animalType="dragon">Drachen</animal> zu sehen&#58; das</line>
+                    <line lineNo="106">K&#228;stchen rechts oben k&#246;nnte ein <animal animalType="dragon">Drachen</animal>kopf sein,</line>
+                    <line lineNo="107">und die Striche auf der rechten Seite erinnern mich</line>
+                    <line lineNo="108">an den R&#252;cken des <animal animalType="dragon/mythical">Drachen</animal>. <name>Sascha</name> wusste aber,</line>
+                    <line lineNo="109">dass es kein &gt;&gt;Bild&lt;&lt; des <animal animalType="dragon">Drachen</animal> war, denn sie fragte</line>
+                    <line lineNo="110"> mich, <speech speaker="Sascha" type="indirect">ob ich es auch <italics>schreiben</italics> k&#246;nne.</speech></line>
+                </p>
+                <p pNo="13">
+                    <line lineNo="111">Ein paar Wochen sp&#228;ter zeigte mir <name>Sascha</name> eine</line>
+                    <line lineNo="112">Teetasse und sagte, dass <speech speaker="Sascha" type="indirect">sie dort das Zeichen &gt;&gt;<animal animalType="dragon/mythical">Drache</animal></speech></line>
+                    <line lineNo="113"><speech speaker="Sascha" type="indirect">&lt;&lt; entdeckt habe.</speech> In der Tat stand dieses Zeichen</line>
+                    <line lineNo="114">auf der Tasse. <name>Sascha</name> hatte sie in einem Laden</line>
+                </p>
+            </page>
+            <page pageNo="44">
+                <p pNo="13">
+                    <line lineNo="115">gefunden und sofort gekauft. Zum ersten Mal im</line>
+                    <line lineNo="116">Leben konnte sie lesen. Ich wollte ihr dann noch</line>
+                    <line lineNo="117">mehr Schriftzeichen beibringen. Sie wird zwar eine</line>
+                    <line lineNo="118">Analphabetin beliben, da sie nicht das &gt;&gt;Alphabet&lt;&lt;</line>
+                    <line lineNo="119">lesen kann, aber sie kann jetzt ein Schriftzeichen </line>
+                    <line lineNo="120">lesen und wei&#223;, dass das Alphabet nicht das einzige</line>
+                    <line lineNo="121">Schriftsystem der Welt ist.</line>
+                </p>
+                <p pNo="14">
+                    <line lineNo="122">Vor der Bushaltestelle gab es einen kleinen </line>
+                    <line lineNo="123">Laden, in dem <name>Sascha</name> ab und zu eine Seife f&#252;r <name>Sonja</name></line>
+                    <line lineNo="124">kaufte. <name>Sonja</name> liebt diese Seife, genauer gesagt,</line>
+                    <line lineNo="125">liebt sie die Verpackung der Seife. Die Verpackung</line>
+                    <line lineNo="126">der Seife trog&#58; Denn auf dem Verpackungspapier</line>
+                    <line lineNo="127">waren <animal animalType="insect/butterfly">Schmetterlinge</animal>, <animal animalType="bird">V&#246;gel</animal> oder Blumen gemalt</line>
+                    <line lineNo="128">obwohl der Inhalt eine Seife ist. Es gibt nicht so viele</line>
+                    <line lineNo="129">Produkte, auf deren Verpackung etwas gemalt ist,</line>
+                    <line lineNo="130">was mit dem Inhalt unmittelbar nichts zu tun hat.</line>
+                    <line lineNo="131"><name>Sonja</name> packte sofort die Seife aus, wenn sie eine von</line>
+                    <line lineNo="132"><name>Sascha</name> bekam, und packte sie wieder ein.</line>
+                </p>
+                <p pNo="15">
+                    <line lineNo="133">Einmal war auf der Seifenschachtel ein <animal animalType="phoenix/bird/avian/mythical">Ph&#246;nix</animal></line>
+                    <line lineNo="134">und darauf stand in einer feinen Schrift &gt;&gt;Seife&lt;&lt;, was</line>
+                    <line lineNo="135"><name>Sonja</name> nat&#252;rlich nicht lesen konnte. <name>Sonja</name> verstand</line>
+                    <line lineNo="136">nur das Bild des <animal animalType="phoenix/bird/avian/mythical">Ph&#246;nix</animal> und den Inhalt&#58; die Seife.</line>
+                </p>
+                <p pNo="16">
+                    <line lineNo="137">Nur weil es die Schrift gibt, dachte ich mir </line>
+                    <line lineNo="138">damals, hat man auf die Verpackung einen <animal animalType="phoenix/bird/avian/mythical">Ph&#246;nix</animal></line>
+                    <line lineNo="139">gemalt anstatt en St&#252;ck Seife. Was k&#246;nnte sonst</line>
+                    <line lineNo="140">die Bedeutung des Inhalts, n&#228;mlich die Seife, </line>
+                    <line lineNo="141">festhalten, wenn die Schrift nicht da w&#228;re? Es w&#252;rde</line>
+                    <line lineNo="142">dann die Gefahr bestehen, dass die Seife sich im</line>
+                    <line lineNo="143">Laufe der Zeit in einen <animal animalType="phoenix/bird/avian/mythical">Ph&#246;nix verwandelt und </animal></line>
+                    <line lineNo="144">wegfliegt.</line>
+                </p>
+            </page>
+            <page pageNo="45">
+                <p pNo="17">
+                    <line lineNo="145">Einmal kaufte ich mir eine kleine Dose im </line>
+                    <line lineNo="146">Supermarkt, auf die eine Japanerin gemalt war. Ich</line>
+                    <line lineNo="147">&#246;ffnete die Dose zu Hause und sah ein St&#252;ck</line>
+                    <line lineNo="148"><animal animalType="tuna/fish">Thunfisch</animal> darin. Die Japanerin schien sich w&#228;hrend der</line>
+                    <line lineNo="149">langen Schiffsfahrt in ein St&#252;ck <animal animalType="fish">Fisch</animal> verwandelt zu</line>
+                    <line lineNo="150">haben. Diese &#220;berraschung erlebte ich an einem</line>
+                    <line lineNo="151">Sonntag, weil ich mich entschlossen hatte, sonntags</line>
+                    <line lineNo="152">keine Schrift zu lesen. Stattdessen beobachtete ich</line>
+                    <line lineNo="153">die Menschen, die ich auf der Stra&#223;e sah, so als</line>
+                    <line lineNo="154">w&#228;ren sie vereinzelte Buchstaben. Manchmal </line>
+                    <line lineNo="155">setzten sich ein paar Menschen zusammen in ein Caf&#233;,</line>
+                    <line lineNo="156">und bildeten sie f&#252;r eine Weile gemeinsam ein</line>
+                    <line lineNo="157">Wort. Dann l&#246;sten sie sich, um ein neues Wort zu</line>
+                    <line lineNo="158">bilden. Es muss einen Moment gegeben haben, in</line>
+                    <line lineNo="159">dem die Kombination dieser W&#246;rter zuf&#228;llig mehrere</line>
+                    <line lineNo="160">S&#228;tze bildete und in dem ich diese fremde Stadt</line>
+                    <line lineNo="161">wie einen Text h&#228;tte lesen k&#246;nnen. Aber ich </line>
+                    <line lineNo="162">entdeckte niemals einen Satz in dieser Stadt, sondern</line>
+                    <line lineNo="163">nur Buchstaben und manchmal einige W&#246;rter, die</line>
+                    <line lineNo="164">mit dem &gt;&gt;Inhalt&lt;&lt; der Kultur direkt nichts zu tun </line>
+                    <line lineNo="165">hatten. Diese w&#246;rter motivierten mich hin und wieder</line>
+                    <line lineNo="166">die &#228;u&#223;ere Verpackung zu &#246;ffnen, um eine weitere</line>
+                    <line lineNo="167">Verpackung darunter zu entdecken.</line>
+                </p>
+            </page>
+        </body>
+    </text>
+</collection>

@@ -1,0 +1,73 @@
+
+html {
+	margin: 0;
+	padding: 0;
+	}
+body { 
+	font: arial, sans-serif;
+	line-height: 1.88889;
+	color: #ffffff; 
+	background: #99ccff;
+	margin: 0; 
+	padding: 0;
+	text-align: justify;
+	}
+h3{
+    font: 300 arial, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+	color: #ffffff;
+	text-align:center;
+    
+}
+h2 { 
+	font: 500 arial, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+	color: #ffffff;
+	text-align:center;
+	}
+h1 {
+    font: 700 arial, sans-serif;
+    color: #ffffff;
+    text-align:center;
+    
+}
+div{
+    background-color: white;
+    width: 1000px;
+    border: 25px #e6faff;
+    padding: 25px;
+    margin: auto;
+    font: arial, sans-serif;
+    color: #000000;
+    text-align: justify;
+    
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+table {
+          background-color: white;
+    width: 100%;
+    border: 25px #e6faff;
+    padding: 25px;
+    margin: auto;
+    font: arial, sans-serif;
+    color: #000000;
+    text-align: justify;
+    
+}
+
+.AnimalCount {
+    font: 500 arial, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+	color: #ffffff;
+	text-align:center;
+    
+}

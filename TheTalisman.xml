@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "file:/Users/saschamorgan-evans/Desktop/Digital%20Humanities%20MA:MSc/AssessmentXML.dtd">
+<!-- The Talisman - English -->
+<collection>
+    <book>
+        <bookTitle bookLanguage="English">Where Europe Begins</bookTitle>
+        <datePublished>2007</datePublished>
+        <publisher country="United States">New Directions</publisher>
+        <writers>
+            <author language="German and Japanese">Yoko Tawada</author>
+            <translator languageFrom="German" languageTo="English">Susan Bernofsky</translator>
+            <translator languageFrom="Japanese" languageTo="English">Yumi Selden</translator>
+        </writers>
+    </book>
+        <text textLanguage="English">
+            <textTitle>The Talisman</textTitle>
+            <originalTitle language="German" fromBook="Talisman">Talisman</originalTitle>
+            <pages>91-96</pages>
+            <character characterType= "main and narrator">Narrator</character>
+            <character characterType= "secondary">Gilda</character>
+            <theme>The foreign</theme>
+            <theme>Foreign Gaze</theme>
+            <theme>Defamiliarisation</theme>
+            <body>
+                <page pageNo="91">
+                    <p pNo="1">
+                        <line lineNo="1"><firstletter>I</firstletter>n this city there are great many women who wear bits</line>
+                        <line lineNo="2">of metal on their ears. They have holes put in their </line>
+                        <line lineNo="3">earlobes especially for this purpose. Almost as soon as I got</line>
+                        <line lineNo="4">here, I wanted to ask what these bits of metal on people&apos;s</line>
+                        <line lineNo="5">ears meant. But I didn&apos;t know if I could speak of this openly.</line>
+                        <line lineNo="6"> My guidebook, for instance, says that in Europe you</line>
+                        <line lineNo="7">should never ask people you don&apos;t know very well </line>
+                        <line lineNo="8">anything related to their bodies or religion. Sometimes I</line>
+                        <line lineNo="9">thought these bits of metal-especially when I saw one in</line>
+                        <line lineNo="10">the form of a scythe, bow or anchor-might be some sort of</line>
+                        <line lineNo="11">talisman.</line>
+                    </p>
+                    <p pNo="2">
+                        <line lineNo="12">At first glance, the city doesn&apos;t strike me as particularly</line>
+                        <line lineNo="13">dangerous. Why, then, do so many women wear talismans</line>
+                        <line lineNo="14">on the street? Certainly it can get a bit spooky at times</line>
+                    </p>
+                    
+                </page>
+                <page pageNo="92">
+                    <p pNo="2">
+                        <line lineNo="15">walking around the city alone.It&apos;s just that too few people</line>
+                        <line lineNo="16">live here. Even during the day I&apos;ve often walked home from</line>
+                        <line lineNo="17">the train station without seeing anyone at all.</line>
+                    </p>
+                    <p pNo="3">
+                        <line lineNo="18">If these bits of metal are supposed to be a talisman, why</line>
+                        <line lineNo="19">are they so popular among women? I didn&apos;t know the name</line>
+                        <line lineNo="20">of the evil force these women were trying to protect themselves</line>
+                        <line lineNo="21"> from with this talisman&apos;s help. They never revealed its</line>
+                        <line lineNo="22">name to me, and I still haven&apos;t made a concerted effort to</line>
+                        <line lineNo="23">find out what it is. Where I come from, <speech speaker="people/they" type="indirect">people say you</speech></line>
+                        <line lineNo="24"><speech speaker="people/they" type="indirect">should never utter the name of a dangerous being aloud. If</speech></line>
+                        <line lineNo="25"><speech speaker="people/they" type="indirect">you do, this being will really appear. It has to be named</speech></line>
+                        <line lineNo="26"><speech speaker="people/they" type="indirect">indirectly.</speech> For example, you can simply replace its name</line>
+                        <line lineNo="27">with "it".</line>
+                    </p>
+                    <p pNo="4">
+                        <line lineNo="28"><name>Gilda</name>, a student who also lived in my building, always</line>
+                        <line lineNo="29">wore a triangular piece of metal on her er. The first time</line>
+                        <line lineNo="30">we had a real conversation, she told me that <speech speaker="Gilda" type="indirect">a fifty-five-year</speech></line>
+                        <line lineNo="31"><speech speaker="Gilda" type="indirect">old librarian at the university had just committed suicide</speech></line>
+                        <line lineNo="32"><speech speaker="Gilda" type="">the day before.</speech> Up until her death, this librarian had fought</line>
+                        <line lineNo="33">to keep computers from being installed in her department.</line>
+                        <line lineNo="34"><speech speaker="Gilda" type="indirect">The woman couldn&apos;t have been intelligent,</speech> Gilda said, <speech speaker="Gilda" type="indirect">or</speech></line>
+                        <line lineNo="35"><speech speaker="Gilda" type="indirect">she would have understood that computer are merely tools</speech></line>
+                        <line lineNo="36"><speech speaker="Gilda" type="indirect">not monsters. But apparently the computers weren&apos;t the</speech></line>
+                        <line lineNo="37"><speech speaker="Gilda" type="indirect">cause of her suicide. She had been suffering from severe</speech></line>
+                        <line lineNo="38"><speech speaker="Gilda" type="indirect">depression for years.</speech> She&apos;d lived alone, <name>Gilda</name> said, fingering</line>
+                        <line lineNo="39">her little triangle of metal.</line>
+                    </p>
+                    <p pNo="5">
+                        <line lineNo="40"><speech speaker="narrator" type="direct">&quot;What is the meaning of this piece of metal?&quot;</speech> I asked.</line>
+                        <line lineNo="41">She looked at me in surprise and asked <speech speaker="Gilda" type="indirect">whether I meant her</speech></line>
+                    </p>
+                </page>
+                <page pageNo="93">
+                    <p pNo="5">
+                        <line lineNo="42"><speech speaker="Gilda" type="direct">&quot;earring&quot;.</speech> The word &quot;ring&quot; had an unsettling effect on me.</line>
+                        <line lineNo="43"><name>Gilda</name> replied indifferently <speech speaker="Gilda" type="indirect">that her earring was simply a</speech></line>
+                        <line lineNo="44"><speech speaker="Gilda" type="indirect">piece of jewelry and had no meaning at all</speech></line>
+                    </p>
+                    <p pNo="6">
+                        <line lineNo="45">As I had supposed, <name>Gilda</name> was reluctant to discuss the</line>
+                        <line lineNo="46">earring&apos;s significance. Instead <speech speaker="Gilda" type="indirect">she told me that highly </speech></line>
+                        <line lineNo="47"><speech speaker="Gilda" type="indirect">educated women had put holes in their ears at a relatively late</speech></line>
+                        <line lineNo="48"><speech speaker="Gilda" type="indirect">age, whereas working-class women started wearing earrings</speech></line>
+                        <line lineNo="49"><speech speaker="Gilda" type="indirect">as girls.</speech></line>
+                    </p>
+                    <p pNo="7">
+                        <line lineNo="50">I had read in a book that there are cultures in which part</line>
+                        <line lineNo="51">of the sexual organ is cut away during the initiation rite. A</line>
+                        <line lineNo="52">different part of the body can be substituted, however &#59; the </line>
+                        <line lineNo="53">feet, for example, or the ears. In this case not the earring</line>
+                        <line lineNo="54">itself but merely the perforation of the earlobe would be</line>
+                        <line lineNo="55">significant.</line>
+                        
+                    </p>
+                    <p pNo="8">
+                        <line lineNo="56">But why was <name>Gilda</name> always nervous? One day she</line>
+                        <line lineNo="57">placed two porcelain <animal animalType="dog/canine">dogs</animal> on her windowsill. She refused</line>
+                        <line lineNo="58">to put the pots of flowers I&apos;d given her there. These <animal animalType="dog/canine">dogs</animal></line>
+                        <line lineNo="59">were to sit on the windowsill all day long and stand guard</line>
+                        <line lineNo="60">over her apartment, like the stone dogs where I come from</line>
+                        <line lineNo="61">that guard the Shinto shrines. <name>Gilda</name> said <speech speaker="Gilda" type="indirect">she often had the</speech></line>
+                        <line lineNo="62"><speech speaker="Gilda" type="indirect">feeling, when she was alone in the apartment, that a strange</speech></line>
+                        <line lineNo="63"><speech speaker="Gilda" type="indirect">man was coming into her room through the window.</speech></line>
+                    </p>
+                    <p pNo="9">
+                        <line lineNo="64">Once she knocked on my door in the middle of the</line>
+                        <line lineNo="65">night and said <speech speaker="Gilda" type="indirect">there was something wrong with her </speech></line>
+                        <line lineNo="66"><speech speaker="Gilda" type="indirect">computer.</speech> I was really quite surprised she&apos;d woken me up for</line>
+                        <line lineNo="67">this, since she knew I didn&apos;t know the first thing about</line>
+                        <line lineNo="68">computers. But soon I understood what the matter was &#58;</line>
+                        
+                    </p>
+                </page>
+                <page pageNo="94">
+                    <p pNo="10">
+                        <line lineNo="69"><name>Gilda</name> <speech speaker="Gilda" type="indirect">claimed there was an alien living inside her</speech></line>
+                        <line lineNo="70"><speech speaker="Gilda" type="indirect">computer and producing sentences.</speech> She kept discovering</line>
+                        <line lineNo="71">sentences in her essays that she definitely hadn&apos;t written her</line>
+                        <line lineNo="72">self. But she refused to give me any examples&#59; she said <speech speaker="Gilda" type="indirect">the</speech></line>
+                        <line lineNo="73"><speech speaker="Gilda" type="indirect">sentences were indecent.</speech><speech speaker="narrator" type="indirect">I advised her to attach a talisman</speech></line>
+                        <line lineNo="74"><speech speaker="narrator" type="indirect">to her computer to make the evil force leave and keep new</speech></line>
+                        <line lineNo="75"><speech speaker="narrator" type="indirect">ones from coming.</speech> I used the term &quot;evil force&quot; because I</line>
+                        <line lineNo="76">didn&apos;t know what else to call it.</line>
+                    </p>
+                    <p pNo="11">
+                        <line lineNo="77">The talisman <name>Gilda</name> selected wasn&apos;t at all what I&apos;d had in</line>
+                        <line lineNo="78">mind&#58; I&apos;d imagned something like a doll made of reeds or</line>
+                        <line lineNo="79">a piece of snakeskin. But <name>Gilda</name> went to a health food store</line>
+                        <line lineNo="80">and purchased three stickers. Each sticker bore an image</line>
+                        <line lineNo="81">that was no doubt intended to epitomize the evil force&#58; a</line>
+                        <line lineNo="82">car, a nuclear power plant, a gun. And above each image</line>
+                        <line lineNo="83">stood the words&#58; No thanks.</line>
+                    </p>
+                    <p pNo="12">
+                        <line lineNo="84">It struck me overly polite to express gratitude while</line>
+                        <line lineNo="85">rejecting an evil force, but perhaps the word &quot;thanks&quot; was</line>
+                        <line lineNo="86">simply intended to avoid provoking the opponent&apos;s </line>
+                        <line lineNo="87">aggression.</line>
+                    </p>
+                    <p pNo="13">
+                        <line lineNo="88"><name>Gilda</name>pasted the stickers on the front of her computer,</line>
+                        <line lineNo="89">next to the screen, and appeared satisfied with them. A</line>
+                        <line lineNo="90">week later she bought three more stickers and put them on</line>
+                        <line lineNo="91">her bicycle, the refrigerator and the door of her apartment.</line>
+                    </p>
+                    <p pNo="14">
+                        <line lineNo="92">But I don&apos;t think she was completely reassured. Her</line>
+                        <line lineNo="93">computer, it&apos;s true, was now clean, but as if to make up for</line>
+                        <line lineNo="94">this, she began to feel as though an alien being were forcing</line>
+                    </p>
+                </page>
+                <page pageNo="95">
+                    <p pNo="14">
+                        <line lineNo="95">its way into her body. She bought herself a sweater with a</line>
+                        <line lineNo="96">big <animal animalType="tiger/big cat/feline">tiger&apos;s</animal> head on it. Everyone who approached her had to</line>
+                        <line lineNo="97">brave the <animal animalType="tiger/big cat/feline">tiger&apos;s</animal> fierce gaze. <name>Gilda</name> also bought herself a</line>
+                        <line lineNo="98">jacket made from the skin of a dead <animal animalType="animals/general">animal</animal>. She wore tight</line>
+                        <line lineNo="99">pants printed in a <animal animalType="leopard/big cat/feline">leopard</animal>-skin pattern and a belt studded</line>
+                        <line lineNo="100">several triangular bits of metal. It wouldn&apos;t have </line>
+                        <line lineNo="101">surprised me if she&apos;d put on a mask with a <animal animalType="lion/big cat/feline>">lion&apos;s</animal> face.</line>
+                    </p>
+                    <p pNo="15">
+                        <line lineNo="102">Despite all this, her misgivings remained. At dinner, for</line>
+                        <line lineNo="103">instance, when she sat alone in the kitchen eating her soup,</line>
+                        <line lineNo="104">she suddenly has the impression tht the soup contained</line>
+                        <line lineNo="105">everything she&apos;d been trying to avoid all this time. She told</line>
+                        <line lineNo="106">me <speech speaker="Gilda" type="indirect">she&apos;d decided to fast for a week or two. There were so</speech></line>
+                        <line lineNo="107"><speech speaker="Gilda" type="indirect">many poisons in food, she explained, and, besides, she had</speech></line>
+                        <line lineNo="108>"><speech speaker="Gilda" type="indirect">too much excess flesh on her body.</speech><name>Gilda</name> wasn&apos;t fat, but she</line>
+                        <line lineNo="109">was incapable of loving her own flesh because she sensed</line>
+                        <line lineNo="110">within it the presence of an alien element. She called this</line>
+                        <line lineNo="111">element <speech speaker="Gilda" type="direct"> &quot;chemicals&quot;.</speech> Every culture has its own purification</line>
+                        <line lineNo="112">ceremony, or several of them. In this city, however, the</line>
+                        <line lineNo="113">ceremony has no predetermmined day, time or opening prayer.</line>
+                        <line lineNo="114">There are no specifications, or at least no rules I could </line>
+                        <line lineNo="115">recognize as such. One day <name>Gilda</name> bought herself a book on</line>
+                        <line lineNo="116">fasting, and a few days later, when I met her on the stairs,</line>
+                        <line lineNo="117">she had lready started. Her face looked less narrow than</line>
+                        <line lineNo="118">usual&#58; it was almost round, as though there were water</line>
+                        <line lineNo="119">trapped beneath the skin. The piece of metal on her ear</line>
+                        <line lineNo="120">appeared heavier and colder than before. I swallowed the</line>
+                    </p>
+                </page>
+                <page pageNo="96">
+                    <p pNo="16">
+                        <line lineNo="121">words I&apos;d meant to say to her, for she seemed to me, all at</line>
+                        <line lineNo="122">once, like a stranger who-although I lived in her </line>
+                        <line lineNo="123">language-couldn&apos;t have understood me.</line>
+                    </p>
+                    <p pNo="17">
+                        <line lineNo="124">On her door flapped a sticker that was trying to come</line>
+                        <line lineNo="125">unstuck from the smooth metal</line>
+                    </p>
+                </page>
+            </body>
+        </text>
+</collection>
